@@ -1,0 +1,35 @@
+name,age,salary
+nAm,18,1
+AAaa `~!@#$%^&*()_+=ФФфф013{}|[]\':"/<>?,120,1000000
+na,51,5000
+AAaa  `~!@#$%^&*()_+=ФФфф013{}|[]\':"/<>?,51,5000
+   aaa,51,5000
+aaa   ,51,5000
+,51,5000
+     ,51,5000
+0,51,5000
+<script> alert('name')</script>,51,5000
+<b>name</b>,51,5000
+aaaaaa,17,5000
+aaaaaa,121,5000
+aaaaaa,,5000
+aaaaaa,aa!@#,5000
+aaaaaa,true,5000
+aaaaaa,50.5,5000
+aaaaaa,-18,5000
+aaaaaa,0,5000
+aaaaaa,'18',5000
+aaaaaa,1.2E+2,5000
+aaaaaa,null,5000
+aaaaaa,123aaa,5000
+aaaaaa,19,0
+aaaaaa,19,-1
+aaaaaa,19,5009.5
+aaaaaa,19,1000001
+aaaaaa,19,
+aaaaaa,19,false
+aaaaaa,19,1.2E+2
+aaaaaa,19,null
+aaaaaa,19,123aaa
+aaaaaa,19,aa!@#
+aaaaaa,19,'5000'
